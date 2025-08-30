@@ -43,7 +43,7 @@ Node.js 16+
 pip & npm
 
 Backend Setup
-git clone https://github.com/yourusername/studymate.git
+git clone https://github.com/Srinath-Badaveni/LexoraAI.git
 cd studymate/backend
 
 # Create venv
