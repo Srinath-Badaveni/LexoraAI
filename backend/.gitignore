@@ -1,0 +1,32 @@
+# Byte-compiled / cache
+__pycache__/
+/models/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+*.egg-info/
+.eggs/
+*.egg
+
+# Environment variables
+*.env
+
+# Logs
+*.log
+*.out
+*.err
+
+# IDE settings
+.vscode/
+.idea/
+
+# PyInstaller
+*.spec
+build/
+dist/
